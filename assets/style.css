@@ -1,0 +1,34 @@
+body {
+    background-image: url(images/retrobg.jpg);
+    background-size: 25%;
+    background-repeat: repeat;
+}
+
+.end-screen {
+    display: none;
+}
+
+#text, .jumbotron {
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url(images/retrobg4.jpg);
+    border: 3px solid;
+}
+
+h1 {
+    font-family: 'Modak', cursive;
+    color: hotpink;
+    letter-spacing: 4px;
+    -webkit-text-stroke: 3px black;
+}
+
+.container {
+    background: beige;
+}
+
+.timer {
+    color: red;
+    font-weight: bold;
+}
